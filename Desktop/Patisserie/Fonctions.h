@@ -56,4 +56,4 @@ Element_str* creation_liste_commande( char commande[50]);
 Pile_Gouts* creer_pile_de_gouts();
 void empile_gouts(Gateau* gout, char texte[50]);
 
-## test branch patisserie_2
+## test 
